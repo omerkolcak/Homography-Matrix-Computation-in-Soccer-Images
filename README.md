@@ -8,3 +8,7 @@ Homography matrix is calculated by detecting key points in the soccer field, and
 ![alt text for screen readers](readme-images/final-1.png "Output 1")
 ![alt text for screen readers](readme-images/final-2.png "Output 2")
 ![alt text for screen readers](readme-images/final-3.png "Output 3")
+## Resources Used
+* https://towardsdatascience.com/random-sample-consensus-helps-you-filter-those-pesky-outliers-9dbfbb8b668f (RANSAC algorithm)
+* https://towardsdatascience.com/a-bonsai-and-an-ellipse-f68c78dbacb8 (ellipse fitting)
+* RANSAC and ellipse fitting algorithms are integrated from this [repo](https://github.com/sebastiengilbert73/tutorial_fitting_ellipse).
